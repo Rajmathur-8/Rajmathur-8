@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Raj Mathur</h1>
 <h3 align="center">Aspiring Full Stack Java Developer 🚀</h3>
 
