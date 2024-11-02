@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full Stack Java Developer 🚀</h3>
 
 <p align="center">
-  <img alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+  <img alt="coding" width="400" height="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 </p>
 
 
