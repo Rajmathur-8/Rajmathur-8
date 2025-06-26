@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **java, javascript**
 
-- 📫 How to reach me **mathurraj03@gmail.com**
+- 📫 How to reach me **mathurraj188@gmail.com**
 
 - ⚡ Fun fact **I code like a ninja – silent keystrokes, debugging stealthily, and leaving behind clean commits as my signature move. 🐱‍💻🥷**
 
@@ -40,7 +40,7 @@
 <a href="https://instagram.com/raj.mathur.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raj.mathur.03" height="30" width="40" /></a>
 <a href="https://medium.com/@rajmathur8409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rajmathur8409" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@rajmathur8409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rajmathur8409" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rajmathur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajmathur" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Raj_Mathur03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajmathur" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
