@@ -36,10 +36,10 @@
 <p align="left">
 <a href="https://twitter.com/rajmathur03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajmathur03" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raj-mathur-778181258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj-mathur-778181258" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/raj mathur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="raj mathur" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/26338711/raj-mathur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="raj mathur" height="30" width="40" /></a>
 <a href="https://instagram.com/raj.mathur.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raj.mathur.03" height="30" width="40" /></a>
 <a href="https://medium.com/@rajmathur8409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rajmathur8409" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@rajmathur8409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rajmathur8409" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/rajmathur8409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rajmathur8409" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Raj_Mathur03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajmathur" height="30" width="40" /></a>
 </p>
 
